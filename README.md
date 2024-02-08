@@ -43,7 +43,7 @@ unzip REQUERIMENTOS-VIA-ECHOBOT.zip
 ```
 
 ### EXECUTANDO O PROJETO:
-1. **Coloque o Token:**
+1. **Coloque o Token e Instale os Requirementos:**
    - Antes de executar o programa, é necessário colocar dentro do arquivo `token.txt` o token do bot, o qual pode ser obtido por meio do [@BotFather](https://t.me/BotFather). O bot requer as bibliotecas especificadas no arquivo `requirements.txt`, que podem ser instaladas usando `pip`:
    ```bash
    pip install -r requirements.txt
