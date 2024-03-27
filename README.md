@@ -22,27 +22,7 @@ O objetivo principal deste projeto não é apenas criar um bot do Telegram, mas 
 
 4. **Boas Práticas de Desenvolvimento**: Seguir as práticas recomendadas, como o uso de arquivos de requisitos e tornar o código mais portátil, não apenas simplifica o desenvolvimento, mas também torna o projeto mais robusto e fácil de manter no longo prazo. Isso é especialmente importante à medida que o projeto cresce e evolui ao longo do tempo.
 
-## COMO USAR?
-### BAIXANDO O PROJETO:
-**Passo 1:** Clone o repositório para o seu sistema local.
-
-```bash
-git clone https://github.com/VILHALVA/REQUERIMENTOS-VIA-ECHOBOT.git
-```
-
-**Passo 2:** Navegue até o diretório do projeto.
-
-```bash
-cd REQUERIMENTOS-VIA-ECHOBOT
-```
-
-**Passo 3:** Descompacte o arquivo ZIP (se você baixou manualmente):
-
-```bash
-unzip REQUERIMENTOS-VIA-ECHOBOT.zip
-```
-
-### EXECUTANDO O PROJETO:
+## EXECUTANDO O PROJETO:
 1. **Coloque o Token e Instale os Requirementos:**
    - Antes de executar o programa, é necessário colocar dentro do arquivo `token.txt` o token do bot, o qual pode ser obtido por meio do [@BotFather](https://t.me/BotFather). O bot requer as bibliotecas especificadas no arquivo `requirements.txt`, que podem ser instaladas usando `pip`:
    ```bash
